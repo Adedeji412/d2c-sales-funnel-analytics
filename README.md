@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Sales Funnel & Conversion Analytics
 
 ### 📌 Project Overview
-![E-Commerce Sales Funnel Dashboard](Screenshot%2026-08-29%230200_1.png)
+![E-Commerce Sales Funnel Dashboard](Screenshot%202026-08-29%20230200_1.png)
 In the highly competitive direct-to-consumer (D2C) space, traffic is expensive. This project analyzes the complete customer journey of an e-commerce brand—from initial website visit to final purchase—to identify friction points, measure drop-off rates, and uncover revenue leaks. 
 
 By analyzing 120,000 user sessions, this dashboard serves as a diagnostic tool to evaluate the effectiveness of the brand's sales copy, user experience, and overall conversion strategy.
